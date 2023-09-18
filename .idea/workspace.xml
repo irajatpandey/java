@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59c4a36c-50b4-492a-b321-da4cb39d9eca" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversion/AutomaticConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversion/ExplictConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversion/Promotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/KindOfVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/Variables.java" afterDir="false" />
+    <list default="true" id="59c4a36c-50b4-492a-b321-da4cb39d9eca" name="Changes" comment="Java Learning">
+      <change afterPath="$PROJECT_DIR$/src/constructors/Parameterized/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Parameterized/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/constructorchaining/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/constructorchaining/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/constructorchaining/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/defaultconstructor/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/defaultconstructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/referencevariable/ClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/referencevariable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/referencevariable/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/referencevariable/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wrapperclass/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,13 +66,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Promotion">
-    <configuration name="AutomaticConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conversion.AutomaticConversion" />
+  <component name="RunManager" selected="Application.constructors.constructorchaining.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="referencevariable.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conversion.*" />
+          <option name="PATTERN" value="referencevariable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplictConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conversion.ExplictConversion" />
+    <configuration name="constructors.Parameterized.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.Parameterized.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conversion.*" />
+          <option name="PATTERN" value="constructors.Parameterized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Promotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conversion.Promotion" />
+    <configuration name="constructors.constructorchaining.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.constructorchaining.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conversion.*" />
+          <option name="PATTERN" value="constructors.constructorchaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.Test" />
+    <configuration name="constructors.defaultconstructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.defaultconstructor.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduction.*" />
+          <option name="PATTERN" value="constructors.defaultconstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.Variables" />
+    <configuration name="wrapperclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapperclass.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="wrapperclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AutomaticConversion" />
-      <item itemvalue="Application.ExplictConversion" />
-      <item itemvalue="Application.Promotion" />
-      <item itemvalue="Application.Variables" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.constructors.Parameterized.Main" />
+      <item itemvalue="Application.constructors.constructorchaining.Main" />
+      <item itemvalue="Application.constructors.defaultconstructor.Main" />
+      <item itemvalue="Application.wrapperclass.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Promotion" />
-        <item itemvalue="Application.ExplictConversion" />
-        <item itemvalue="Application.AutomaticConversion" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.constructors.constructorchaining.Main" />
+        <item itemvalue="Application.constructors.Parameterized.Main" />
+        <item itemvalue="Application.constructors.defaultconstructor.Main" />
+        <item itemvalue="Application.wrapperclass.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +159,7 @@
       <updated>1694536804759</updated>
       <workItem from="1694536805812" duration="675000" />
       <workItem from="1694537508457" duration="80000" />
-      <workItem from="1694710214345" duration="11238000" />
+      <workItem from="1694710214345" duration="18957000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1694537007565</created>
@@ -172,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694537036284</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java Learning">
+      <created>1694923579818</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694923579818</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup" />
+    <MESSAGE value="Java Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
