@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59c4a36c-50b4-492a-b321-da4cb39d9eca" name="Changes" comment="Java Learning">
-      <change afterPath="$PROJECT_DIR$/src/constructors/Parameterized/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/Parameterized/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/constructorchaining/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/constructorchaining/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/constructorchaining/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/defaultconstructor/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/defaultconstructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencevariable/ClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencevariable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencevariable/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencevariable/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wrapperclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/abstracclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/concreteclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/concreteclass/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/nestedclasses/non_static_inner_class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/nestedclasses/non_static_inner_class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/nestedclasses/staticnestedclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/nestedclasses/staticnestedclass/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/objectclass/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/objectclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/objectclass/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/BoundedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Introduction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,28 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Code/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Code/java-master/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Code/java-master/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.constructors.constructorchaining.Main">
+}</component>
+  <component name="RunManager" selected="Application.classes.nestedclasses.non_static_inner_class.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="referencevariable.Main" />
+      <option name="MAIN_CLASS_NAME" value="classes.objectclass.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="referencevariable.*" />
+          <option name="PATTERN" value="classes.objectclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructors.Parameterized.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.Parameterized.Main" />
+    <configuration name="classes.abstracclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.abstracclass.Main" />
       <module name="java-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructors.Parameterized.*" />
+          <option name="PATTERN" value="classes.abstracclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classes.nestedclasses.non_static_inner_class.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.nestedclasses.non_static_inner_class.Main" />
+      <module name="java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes.nestedclasses.non_static_inner_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classes.nestedclasses.staticnestedclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.nestedclasses.staticnestedclass.Main" />
+      <module name="java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes.nestedclasses.staticnestedclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,46 +132,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructors.defaultconstructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.defaultconstructor.Main" />
-      <module name="java-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="constructors.defaultconstructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="wrapperclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wrapperclass.Main" />
-      <module name="java-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wrapperclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.constructors.Parameterized.Main" />
+      <item itemvalue="Application.classes.nestedclasses.non_static_inner_class.Main" />
+      <item itemvalue="Application.classes.nestedclasses.staticnestedclass.Main" />
+      <item itemvalue="Application.classes.abstracclass.Main" />
       <item itemvalue="Application.constructors.constructorchaining.Main" />
-      <item itemvalue="Application.constructors.defaultconstructor.Main" />
-      <item itemvalue="Application.wrapperclass.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.constructors.constructorchaining.Main" />
-        <item itemvalue="Application.constructors.Parameterized.Main" />
-        <item itemvalue="Application.constructors.defaultconstructor.Main" />
-        <item itemvalue="Application.wrapperclass.Main" />
+        <item itemvalue="Application.classes.nestedclasses.non_static_inner_class.Main" />
+        <item itemvalue="Application.classes.nestedclasses.staticnestedclass.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.classes.abstracclass.Main" />
+        <item itemvalue="Application.constructors.constructorchaining.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,11 @@
       <updated>1694536804759</updated>
       <workItem from="1694536805812" duration="675000" />
       <workItem from="1694537508457" duration="80000" />
-      <workItem from="1694710214345" duration="18957000" />
+      <workItem from="1694710214345" duration="19653000" />
+      <workItem from="1695017113667" duration="2144000" />
+      <workItem from="1695020293809" duration="5884000" />
+      <workItem from="1695315176476" duration="1564000" />
+      <workItem from="1695449076476" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1694537007565</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694923579818</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Learning">
+      <created>1695012355112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695012355112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +222,15 @@
           <properties class="java.lang.ClassNotFoundException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/generics/BoundedClass.java</url>
+          <line>23</line>
+          <properties class="generics.BoundedClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
